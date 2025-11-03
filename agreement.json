@@ -1,0 +1,42 @@
+{
+    "code": "MDC-API-200",
+    "message": "operasi berhasil dieksekusi.",
+    "data": [
+        {
+            "branch_id": "451",
+            "customer_id": "45100083554",
+            "application_id": "451A202402140096",
+            "agreement_no": "04511024000359",
+            "legal_name": "MUHAMAD ABIDIN",
+            "installment_amount": 595000,
+            "down_payment": 5850000,
+            "tenor": 18,
+            "go_live_date": "2024-02-12T17:11:00Z",
+            "outstanding_principal": 6643687.5,
+            "contract_status": "LIV",
+            "next_installment_number": 2,
+            "next_installment_date": "2024-04-12T00:00:00Z",
+            "license_plate": "H 3884 MA",
+            "asset_type_id": "11",
+            "asset_code": "K-HND.MOTOR.NEW BEAT CBS FI",
+            "manufacturing_year": 2017,
+            "rrd_date": "",
+            "bpkb": "NAMA SAMA",
+            "serial_no_1": "MH1JM2113HK645926",
+            "serial_no_2": "JM21E1633746",
+            "total_otr": 11850000,
+            "discount_otr": 0,
+            "product_id": "MOTOR-ML"
+        }
+    ],
+    "errors": null,
+    "metadata": {
+        "pagination": {
+            "limit": 10,
+            "next_page": false,
+            "page": 1,
+            "prev_page": false,
+            "total": 1
+        }
+    }
+}
